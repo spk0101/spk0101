@@ -15,9 +15,9 @@
 
 - 🧑‍🎓 I’m currently working as: Student 
 
-- 🌱 I’m currently learning: Applied Machine Learning
+- 🌱 I’m currently learning: AngularJS
 
-- 👨‍💻 Check out my portfolio at [here](https://sanketborade.netlify.app/)
+- 👨‍💻 Check out my portfolio at [here]
 
 - 💬 Ask me about **FrontEnd Web Development**
 

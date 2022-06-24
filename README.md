@@ -7,7 +7,7 @@
 <hr> 
 
 
-<p align="centre"> <img src="https://komarev.com/ghpvc/?username=spk0101&label=Profile%20views&color=FF00FF&style=flat" alt="spk0101" /> 
+ <img src="https://komarev.com/ghpvc/?username=spk0101&label=Profile%20views&color=FF00FF&style=flat" alt="spk0101" /> 
 <a href="https://twitter.com/boradesanket13"><img src="https://img.shields.io/twitter/follow/boradesanket13?style=social" alt="Twitter: @boradesanket13"></a>
 <a href="https://www.linkedin.com/in/sparsh-khandelwal0101/"><img src="https://img.shields.io/badge/Sparsh%20Khandelwal-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/sparsh-khandelwal0101/" alt="Linkedin: Sparsh Khandelwal"></a><a href="https://github.com/spk0101"><img src="https://img.shields.io/github/followers/spk0101?label=follow&amp;style=social" alt="GitHub: @spk0101"></a><a href="mailto:sparshkhandelwal0101@gmail.com"><img src="https://img.shields.io/badge/Gmail-sparshkhandelwal0101-red" alt="Gmail: sparshkhandelwal0101"></a>
 

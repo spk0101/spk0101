@@ -15,7 +15,7 @@
 
 - 🧑‍🎓 I’m currently working as: Student 
 
-- 🌱 I’m currently learning: AngularJS, Flutter
+- 🌱 I’m currently learning: AngularJS.
 
 - 👨‍💻 Check out my portfolio at [here]
 

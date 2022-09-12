@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **sparshkhandelwal0101@gmail.com**
 
-- ⚡ Fun fact **Apart from the tech enthusiast, I am also a Guitarist🎸(CheckOut My SoundCloud)[https://soundcloud.com/spk0101]  and a photographer📷.**
+- ⚡ Fun fact **Apart from the tech enthusiast, I am also a Guitarist🎸 ( [CheckOut My SoundCloud](https://soundcloud.com/spk0101) ) and a photographer📷.**
 
 - 😄 Pronouns: He/Him
 

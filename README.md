@@ -19,7 +19,7 @@
 
 - 👨‍💻 Check out my portfolio at [here]
 
-- 💬 Ask me about **FrontEnd Web Development**
+- 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **sparshkhandelwal0101@gmail.com**
 

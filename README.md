@@ -40,15 +40,9 @@
           
             
 <br><br><hr>
-<p>## &#x1f4c8; GitHub Stats<br/>
+## &#x1f4c8; GitHub Stats<br/>
             
-
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=spk0101&count_private=true&show_icons=true&theme=vue&hide_rank=false&line_height=27" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&line_height=27&theme=vue" />
-</a>
+![Metrics](https://metrics.lecoq.io/spk0101?template=classic&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&config.timezone=Asia%2FKolkata)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=spk0101&theme=vue)
 

@@ -38,10 +38,11 @@
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"/ width = "40">  
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitter/gitter-plain.svg" / width="40"> 
              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" / width="45">
-               <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" />
+               <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" />    
+          
           
            
-          
+</p>
           
           
             

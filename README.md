@@ -15,7 +15,7 @@
 
 - 🧑‍🎓 I’m currently working as: Student 
 
-- 🌱 I’m currently learning: Unreal Engine.
+- 🌱 I’m currently learning: React.
 
 - 👨‍💻 Check out my portfolio at [here]
 

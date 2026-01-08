@@ -13,11 +13,9 @@
 
 <img width="40%" align="right" alt="Github" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width ="10rem">
 
-- 🧑‍🎓 I’m currently working as: Student 
+- 🧑‍🎓 I’m currently working as: Software Developer
 
 - 🌱 I’m currently learning: React.
-
-- 👨‍💻 Check out my portfolio at [here]
 
 - 💬 Ask me about **Web Development**
 
